@@ -1,0 +1,1 @@
+1. Application mm-empty has been successfully deployed!!
